@@ -1,7 +1,7 @@
 Painel Atualizado diariamente conforme meus commits:)
 ![snake gif](https://raw.githubusercontent.com/BrenoAmorim7/BrenoAmorim7/output/github-contribution-grid-snake.svg)
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Construindo%20soluções%20com%20dados&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 ###  Tecnologias
 
