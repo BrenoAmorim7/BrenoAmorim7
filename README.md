@@ -80,7 +80,7 @@ Objetivo:   Construir pipelines de dados eficientes e soluções analíticas
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Entre%20em%20Contato-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:brenonunesam@gmail.com"><img src="https://img.shields.io/badge/brenonunesam%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/BrenoAmorim7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
