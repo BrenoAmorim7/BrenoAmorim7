@@ -44,7 +44,7 @@ Objetivo:   Construir pipelines de dados eficientes e soluções analíticas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
 
 </div>
 
