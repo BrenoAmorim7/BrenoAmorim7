@@ -20,8 +20,19 @@
 
 ## 📌 Sobre mim
 
+Sou estudante do curso Tecnólogo em Ciência de Dados na Universidade Estadual da Paraíba (UEPB – Câmpus VII, Patos), atualmente no segundo período. Sou bolsista de Iniciação Científica pela FAPESQ, o que me permite unir a rotina acadêmica com experiência prática em projetos de pesquisa.
+
+Estou construindo minha base em **Python**, **SQL**, **Estruturas de Dados** e **Orientação a Objetos**, com o objetivo de me especializar em pipelines de dados e soluções analíticas que transformem dados brutos em decisões melhores. Gosto de aprender na prática: cada projeto aqui no GitHub é parte desse processo de evolução constante.
+
+> 🚀 Em constante aprendizado, sempre em busca do próximo desafio em dados.
+
+<br/>
+
+## 🗂️ Formação & Foco Atual
+
 ```yaml
 Curso:      Tecnólogo em Ciência de Dados — UEPB (Câmpus VII, Patos-PB)
+Período:    2º semestre
 Bolsa:      Iniciação Científica / Projetos — FAPESQ
 Foco atual: Python • SQL • Estruturas de Dados • Orientação a Objetos
 Objetivo:   Construir pipelines de dados eficientes e soluções analíticas
@@ -68,9 +79,9 @@ Objetivo:   Construir pipelines de dados eficientes e soluções analíticas
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/breno-nunes-b144983b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#brenonunesam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Entre%20em%20Contato-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/BrenoAmorim7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
