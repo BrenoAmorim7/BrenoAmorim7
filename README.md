@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0284c7&height=220&section=header&text=Breno%20Nunes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ciência%20de%20Dados%20%7C%20Bolsista%20FAPESQ&descAlignY=55&descSize=18"/>
+<img width="100%" src="./neural-header.svg" alt="Neural network header"/>
+
+<sub>🎓 Estudante de Ciência de Dados @ UEPB (Patos-PB) • Bolsista FAPESQ</sub>
 
 <br/>
 
@@ -75,3 +77,5 @@ Objetivo:   Construir pipelines de dados eficientes e soluções analíticas
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7c3aed&height=100&section=footer"/>
+
+</div>
