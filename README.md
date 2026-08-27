@@ -1,82 +1,77 @@
 <div align="center">
 
-  <!-- BANNER DE CABEÇALHO COM GRADIENTE -->
-  <svg viewBox="0 0 800 140" width="100%" height="140" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#1e1b4b;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#311042;stop-opacity:1" />
-      </linearGradient>
-      <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="800" height="140" rx="16" fill="url(#grad)" stroke="#334155" stroke-width="2"/>
-    <text x="400" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="28" fill="#f8fafc" text-anchor="middle">Breno Nunes</text>
-    <text x="400" y="85" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="15" fill="url(#accent)" text-anchor="middle">🎓 Ciência de Dados @ UEPB (Patos-PB) • Bolsista FAPESQ</text>
-    <text x="400" y="110" font-family="'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="13" fill="#94a3b8" text-anchor="middle">Focado em Python, SQL &amp; Fundamentos de Dados</text>
-  </svg>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0284c7&height=220&section=header&text=Breno%20Nunes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ciência%20de%20Dados%20%7C%20Bolsista%20FAPESQ&descAlignY=55&descSize=18"/>
 
-  <br/><br/>
+<br/>
 
-  <!-- BADGES DE STATUS -->
-  <img src="https://img.shields.io/badge/Status-Estudante%20%26%20Bolsista-7c3aed?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-Engenharia%20de%20Dados-0284c7?style=for-the-badge&logo=python&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Cursando+Ci%C3%AAncia+de+Dados+na+UEPB;Explorando+Python%2C+SQL+e+Estruturas+de+Dados;Construindo+pipelines+e+solu%C3%A7%C3%B5es+anal%C3%ADticas)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Estudante%20%26%20Bolsista-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Foco-Ci%C3%AAncia%20%26%20Engenharia%20de%20Dados-0284c7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/UEPB-C%C3%A2mpus%20VII%20Patos-6d28d9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 </div>
 
 <br/>
 
----
+## 📌 Sobre mim
 
-### 👨‍💻 Sobre Mim
+```yaml
+Curso:      Tecnólogo em Ciência de Dados — UEPB (Câmpus VII, Patos-PB)
+Bolsa:      Iniciação Científica / Projetos — FAPESQ
+Foco atual: Python • SQL • Estruturas de Dados • Orientação a Objetos
+Objetivo:   Construir pipelines de dados eficientes e soluções analíticas
+```
 
-> **Graduando em Ciência de Dados** na **UEPB (Câmpus VII - Patos)** e **Bolsista FAPESQ**. Atualmente desenvolvendo lógica de programação, estrutura de dados e rotinas de banco de dados para criar uma base sólida na área de dados.
+<br/>
 
-* 🎓 **Curso:** Tecnólogo em Ciência de Dados (UEPB Patos)
-* 🔬 **Iniciação Científica:** Bolsista FAPESQ
-* 🎯 **Objetivo:** Dominar a base de Ciência e Engenharia de Dados
-
----
-
-### 🐍 Contribuições no GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrenoAmorim7/BrenoAmorim7/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
----
-
-### 🛠️ Tecnologias que Utilizo
+## 🛠️ Stack & Ferramentas
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,linux&theme=dark" />
 
 </div>
 
----
+<br/>
 
-### 📚 Estudando Agora
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![POO](https://img.shields.io/badge/POO-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Estrutura de Dados](https://img.shields.io/badge/Estrutura_de_Dados-2E8B57?style=for-the-badge&logo=leetcode&logoColor=white)
-![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BrenoAmorim7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0284c7"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoAmorim7&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=0284c7"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAmorim7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed"/>
 
 </div>
 
----
+<br/>
 
-### 📊 Estatísticas e Linguagens
+## 🐍 Atividade
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrenoAmorim7&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAmorim7&layout=compact&theme=tokyonight&hide=html,css&border_radius=10"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrenoAmorim7/BrenoAmorim7/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/BrenoAmorim7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:7c3aed&height=100&section=footer"/>
